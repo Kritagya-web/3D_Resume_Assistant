@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "soundFile": "../src/assets/audios/unknown_en-0.json",
+        "duration": 1.43,
+        "text": "Sorry, I didn't understand."
+    },
+    "mouthCues": [
+        {
+            "start": 0.0,
+            "end": 0.03,
+            "value": "X"
+        },
+        {
+            "start": 0.03,
+            "end": 0.13,
+            "value": "B"
+        },
+        {
+            "start": 0.13,
+            "end": 0.2,
+            "value": "D"
+        },
+        {
+            "start": 0.2,
+            "end": 0.7,
+            "value": "B"
+        },
+        {
+            "start": 0.7,
+            "end": 0.9,
+            "value": "X"
+        },
+        {
+            "start": 0.9,
+            "end": 1.04,
+            "value": "C"
+        },
+        {
+            "start": 1.04,
+            "end": 1.18,
+            "value": "B"
+        },
+        {
+            "start": 1.18,
+            "end": 1.43,
+            "value": "X"
+        }
+    ]
+}
