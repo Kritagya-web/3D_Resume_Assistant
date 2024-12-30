@@ -1,5 +1,5 @@
 # Introoducing Chill - 3D Resume AI Assistant 
-It talks about my skills, projects and work experiences and the #Coding c#Halenges #I faced while #Learning and #Leveraging DSA.
+It talks about my skills, projects and work experiences and the Coding cHalenges I faced while Learning and Leveraging DSA.
 
 Taken Inspiration from Jos Guilherme project. 
 Still Making a lot of changes into the project and would post it soon.
