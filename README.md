@@ -1,4 +1,5 @@
-# 3D Resume taking about my skills, projects and work experiences. 
+# 3D Resume AI Assistant
+It talks about my skills, projects and work experiences. 
 
 Taken Inspiration from Jos Guilherme project. 
 Still Making a lot of changes into the project and would post it soon.
