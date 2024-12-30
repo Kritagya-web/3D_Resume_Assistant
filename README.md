@@ -1,4 +1,5 @@
-﻿<div align="center">
+## Taken Inspiration from Jos Guilherme project. Still Making a lot of changes into the project and would post it soon.
+ <div align="center">
     <image src='./src/assets/images/thumbnail.png'>
     <a href="https://esgario.github.io/3d-resume/">
         <p>Click here to access the 3D Resume</p>
